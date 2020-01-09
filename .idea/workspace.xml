@@ -2,66 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9edc49d-db14-466e-8cda-32e16d7cb4c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1028.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution140.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution662.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution72.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution85.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution95.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution96.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution97.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution993.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Untils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution152.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,8 +29,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution139.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+            <state relative-caret-position="437">
+              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution140.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,13 +51,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution140.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution152.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="361">
+              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -139,7 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution49.java" />
         <option value="$PROJECT_DIR$/src/Solution50.java" />
         <option value="$PROJECT_DIR$/src/Solution42.java" />
         <option value="$PROJECT_DIR$/src/Solution44.java" />
@@ -190,6 +140,7 @@
         <option value="$PROJECT_DIR$/src/Solution132.java" />
         <option value="$PROJECT_DIR$/src/Solution139.java" />
         <option value="$PROJECT_DIR$/src/Solution140.java" />
+        <option value="$PROJECT_DIR$/src/Solution152.java" />
       </list>
     </option>
   </component>
@@ -207,7 +158,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,11 +166,16 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,16 +197,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution140">
+  <component name="RunManager" selected="Application.Solution152">
     <configuration name="Solution109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution109" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution123" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -277,13 +226,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution152" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution152" />
         <item itemvalue="Application.Solution140" />
         <item itemvalue="Application.Solution139" />
         <item itemvalue="Application.Solution132" />
         <item itemvalue="Application.Solution109" />
-        <item itemvalue="Application.Solution123" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +336,8 @@
       <workItem from="1578037921536" duration="1119000" />
       <workItem from="1578276229289" duration="5896000" />
       <workItem from="1578381918105" duration="5429000" />
-      <workItem from="1578448646613" duration="9404000" />
+      <workItem from="1578448646613" duration="9536000" />
+      <workItem from="1578543327375" duration="3846000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1569548200547</created>
@@ -396,11 +353,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569571758207</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新增了很多东西">
+      <created>1578481083171</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578481083171</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="307572000" />
+    <option name="totallyTimeSpent" value="311550000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -415,7 +379,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28411514" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28731343" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -424,7 +388,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3308026" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.3308026" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -433,7 +397,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49840087" weight="0.3275488" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.3470716" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50159913" side_tool="true" weight="0.3308026" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3275488" />
       <window_info anchor="bottom" id="Duplicates" order="13" weight="0.3286334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -454,7 +418,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="第二次提交，添加17. Letter Combinations of a Phone Number 的java回溯法" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次提交，添加17. Letter Combinations of a Phone Number 的java回溯法" />
+    <MESSAGE value="新增了很多东西" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增了很多东西" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -653,13 +618,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$Solution114.ic" NAME="Solution114 Coverage Results" MODIFIED="1576054978738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution45.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution88.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1058,8 +1016,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution139.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        <state relative-caret-position="437">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1069,10 +1027,17 @@
     <entry file="file://$PROJECT_DIR$/src/Solution140.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution152.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
         </state>
       </provider>
     </entry>
