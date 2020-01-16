@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a42b72aa-0b0a-4a9e-a31e-7e93bfabdce2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution56.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution54">
+  <component name="RunManager" selected="Application.Solution56">
     <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.part.CombinationSum" />
       <module name="LeetCode" />
@@ -68,20 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNodes_in_kGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.part.ReverseNodes_in_kGroup" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.part.SearchInRotatedSortedArray" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution54" />
       <module name="LeetCode" />
@@ -89,13 +76,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution55" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution56" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution56" />
+        <item itemvalue="Application.Solution55" />
         <item itemvalue="Application.Solution54" />
         <item itemvalue="Application.CombinationSum" />
         <item itemvalue="Application.FindFirstAndLastPositionOfElementInSortedArray" />
-        <item itemvalue="Application.SearchInRotatedSortedArray" />
-        <item itemvalue="Application.ReverseNodes_in_kGroup" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578984199916</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第54题，螺旋矩阵">
+      <created>1579055685636</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579055685636</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +157,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增原来的一部分" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增原来的一部分" />
+    <MESSAGE value="第54题，螺旋矩阵" />
+    <option name="LAST_COMMIT_MESSAGE" value="第54题，螺旋矩阵" />
   </component>
 </project>
