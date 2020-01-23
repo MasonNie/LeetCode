@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a42b72aa-0b0a-4a9e-a31e-7e93bfabdce2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution59.java" afterDir="false" />
+    <list default="true" id="a42b72aa-0b0a-4a9e-a31e-7e93bfabdce2" name="Default Changelist" comment="57,59">
+      <change afterPath="$PROJECT_DIR$/src/Solution60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution74.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,35 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution59">
-    <configuration name="Solution54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution54" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution55" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution56" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution57" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution74">
     <configuration name="Solution59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution59" />
       <module name="LeetCode" />
@@ -90,13 +64,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution60" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution65" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution73" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution74" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution74" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution74" />
+        <item itemvalue="Application.Solution73" />
+        <item itemvalue="Application.Solution65" />
+        <item itemvalue="Application.Solution60" />
         <item itemvalue="Application.Solution59" />
-        <item itemvalue="Application.Solution57" />
-        <item itemvalue="Application.Solution56" />
-        <item itemvalue="Application.Solution55" />
-        <item itemvalue="Application.Solution54" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579149361142</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="57,59">
+      <created>1579323111827</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579323111827</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +175,23 @@
     <MESSAGE value="新增原来的一部分" />
     <MESSAGE value="第54题，螺旋矩阵" />
     <MESSAGE value="55,56但是两道题时间复杂度不好" />
-    <option name="LAST_COMMIT_MESSAGE" value="55,56但是两道题时间复杂度不好" />
+    <MESSAGE value="57,59" />
+    <option name="LAST_COMMIT_MESSAGE" value="57,59" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution60.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution65.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
