@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a42b72aa-0b0a-4a9e-a31e-7e93bfabdce2" name="Default Changelist" comment="60,65,73,74">
-      <change afterPath="$PROJECT_DIR$/src/Solution75.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution78.java" afterDir="false" />
+    <list default="true" id="a42b72aa-0b0a-4a9e-a31e-7e93bfabdce2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Solution79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution80.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,21 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution78">
-    <configuration name="Solution73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution73" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution74" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution74" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution80">
     <configuration name="Solution75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution75" />
       <module name="LeetCode" />
@@ -91,13 +76,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution79" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution80" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution80" />
+        <item itemvalue="Application.Solution79" />
         <item itemvalue="Application.Solution78" />
         <item itemvalue="Application.Solution77" />
         <item itemvalue="Application.Solution75" />
-        <item itemvalue="Application.Solution74" />
-        <item itemvalue="Application.Solution73" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579759927808</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="75,77,78">
+      <created>1580542136907</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580542136907</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,7 +189,8 @@
     <MESSAGE value="55,56但是两道题时间复杂度不好" />
     <MESSAGE value="57,59" />
     <MESSAGE value="60,65,73,74" />
-    <option name="LAST_COMMIT_MESSAGE" value="60,65,73,74" />
+    <MESSAGE value="75,77,78" />
+    <option name="LAST_COMMIT_MESSAGE" value="75,77,78" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
