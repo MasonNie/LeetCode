@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a42b72aa-0b0a-4a9e-a31e-7e93bfabdce2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution80.java" afterDir="false" />
+    <list default="true" id="a42b72aa-0b0a-4a9e-a31e-7e93bfabdce2" name="Default Changelist" comment="79,80">
+      <change afterPath="$PROJECT_DIR$/src/Solution117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution93.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,37 +71,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution80">
-    <configuration name="Solution75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution75" />
+  <component name="RunManager" selected="Application.Solution124">
+    <configuration name="Solution119" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution119" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution77" />
+    <configuration name="Solution124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution124" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution78" />
+    <configuration name="Solution125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution125" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution79" />
+    <configuration name="Solution127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution127" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution80" />
+    <configuration name="Solution131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution131" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution80" />
-        <item itemvalue="Application.Solution79" />
-        <item itemvalue="Application.Solution78" />
-        <item itemvalue="Application.Solution77" />
-        <item itemvalue="Application.Solution75" />
+        <item itemvalue="Application.Solution124" />
+        <item itemvalue="Application.Solution131" />
+        <item itemvalue="Application.Solution127" />
+        <item itemvalue="Application.Solution125" />
+        <item itemvalue="Application.Solution119" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580542136907</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="79,80">
+      <created>1581070361169</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581070361169</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,7 +214,8 @@
     <MESSAGE value="57,59" />
     <MESSAGE value="60,65,73,74" />
     <MESSAGE value="75,77,78" />
-    <option name="LAST_COMMIT_MESSAGE" value="75,77,78" />
+    <MESSAGE value="79,80" />
+    <option name="LAST_COMMIT_MESSAGE" value="79,80" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -210,7 +235,72 @@
           <line>10</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution81.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution68.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution71.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution76.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution82.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution90.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution92.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution93.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution118.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution131.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution131.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution124.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
