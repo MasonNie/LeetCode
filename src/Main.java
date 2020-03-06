@@ -557,19 +557,28 @@ public class Main {
         return head;
 
     }
+    public static void leftSee(List<Integer> out,TreeNode root,int depth){
+        if (root==null) return;
+        if (out.size() == depth) out.add(root.val);
+        leftSee(out, root.right, depth+1);
+        leftSee(out, root.left, depth+1);
+    }
+
 
     public static void main(String[] args) {
-        int [] a = {-3,-2,-1,0,0,1,2,3};
-        int [] b = {};
-        ListNode in = lianBiao(b);
-        ListNode out = swapPairs(in);
-        while (out!=null){
-            System.out.print(out.val+"  ");
-            out = out.next;
-        }
-        //System.out.println(out);
-        //System.out.println("PINALSIGYAHRPI");
+        Integer a = new Integer(2);
+        Integer b = new Integer(2);
+        Integer c = new Integer(3);
+        Object[] objects = {1,2,3,null,5,null,4};
+        TreeNode treeNode = Untils.creatTree(objects);
+        List<Integer> out = new ArrayList<>();
+        leftSee(out,treeNode,0);
+        System.out.println(out);
+        List<Integer> test_a = Arrays.asList(1,2);
+        List<Integer> test_b = Arrays.asList(1,2);
+        System.out.println(test_a.equals(test_b));
 
-        //System.out.println("Hello World!");
+        a = 1113;b = 1113;
+        System.out.println(a == b);
     }
 }
